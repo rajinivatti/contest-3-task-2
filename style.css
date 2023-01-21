@@ -1,0 +1,97 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.left{
+    display:flex;
+    margin-top:30px;
+    margin-right:20px;
+}
+p{
+    margin: 40px 10px 16px 55px;
+}
+span{
+    color:red;
+}
+#input{
+    margin-left:60px;
+}
+#select{
+    margin-left:60px;
+    margin-top:60px;
+}
+#input-text{
+    height:35px;
+    width:500px;
+    border-radius:8px;
+    padding-left:10px;
+    margin:10px 10px 30px 55px;
+}
+#select-field{
+    height:35px;
+    width:515px;
+    border-radius:8px;
+    padding-left:10px;
+    margin:20px 10px 10px 55px;
+}
+#textarea{
+Width:500px;
+Height:110px;
+Top:402px;
+Left:61px;
+border-Radius:10px;
+margin:10px 10px 5px 55px;
+}
+#Label{
+    Width:380px;
+    /*Height:35px;*/
+    margin:5px 0px 16px 55px; 
+    border-Radius:10px;
+    padding:15px;
+    z-index:-1
+}
+#button{
+    position:absolute;
+    margin-top:7px;
+    margin-right:200px;
+    height:20px;
+    width:100px;
+    padding:22px;
+    border-radius:10px;
+    background-color:white;
+    
+}
+#search{
+    width:500px;
+    border-radius:5px;
+    margin:25px 100px;
+    padding-left:40px;
+    height:35px;
+}
+img{
+    margin-left:120px;
+    position:absolute;
+    margin-top:38px;
+
+    }
+    .right span{
+        border:1px solid black;
+        color:black;
+        padding:10px 30px;
+        border-radius:5px;
+        margin:20px 50px;
+    }
+    #checkbox{
+        margin:10px;
+        margin-left:108px;
+    }
+    #radio{
+        margin:10px;
+        margin-left:108px;
+    }
+    .switch{
+        margin:10px;
+        margin-left:108px;
+        height:5px;
+        width:26px;
+    }
